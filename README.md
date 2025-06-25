@@ -34,7 +34,6 @@
 - [Configuration](#configuration)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## 🎯 About
