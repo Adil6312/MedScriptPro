@@ -118,7 +118,7 @@ MediScript Pro is a cutting-edge web application that digitizes handwritten medi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mediscript-pro.git
+   git clone https://github.com/Adil6312.git
    cd mediscript-pro
    ```
 
