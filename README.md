@@ -453,15 +453,12 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - Write meaningful commit messages
 - Add tests for new features
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Team
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Muhammad Adil** - *Initial work* - [YourGitHub](https://github.com/Adil6312)
+- **Zainab Ghaznavi**
 
-See also the list of [contributors](https://github.com/yourusername/mediscript-pro/contributors) who participated in this project.
 
 ## 🙏 Acknowledgments
 
@@ -471,9 +468,9 @@ See also the list of [contributors](https://github.com/yourusername/mediscript-p
 
 ## 📞 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - Muhammad Adil - Email: muhammadadil6312@gmail.com
 
-Project Link: [https://github.com/yourusername/mediscript-pro](https://github.com/yourusername/mediscript-pro)
+Project Link: [https://github.com/Adil6312/MedScriptPro](https://github.com/yourusername/mediscript-pro)
 
 ---
 
